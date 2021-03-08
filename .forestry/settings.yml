@@ -7,7 +7,6 @@ sections:
 - type: document
   path: hi.md
   label: Let's Chat
-  match: "**/*"
 - type: directory
   path: content
   label: Blog
