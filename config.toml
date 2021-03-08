@@ -19,7 +19,7 @@ name = "tools"
 weight = 2
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Let's Chat"
 weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
